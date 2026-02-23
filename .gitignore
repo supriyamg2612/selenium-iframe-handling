@@ -1,0 +1,64 @@
+# ==============================
+# Maven
+# ==============================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# Compiled class files
+# ==============================
+*.class
+
+# ==============================
+# IDE Files
+# ==============================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Selenium WebDriver
+# ==============================
+chromedriver*
+geckodriver*
+msedgedriver*
+
+# ==============================
+# Test Output
+# ==============================
+test-output/
+screenshots/
+reports/
+
+# ==============================
+# Temporary Files
+# ==============================
+*.tmp
+*.bak
+*.swp
